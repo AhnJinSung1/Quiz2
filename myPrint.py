@@ -4,4 +4,8 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 >>> print()
 
+print()
 
+print()
+
+print()
